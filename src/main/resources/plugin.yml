@@ -5,4 +5,4 @@ api-version: '1.20'
 commands:
   skip:
     description: 夜をスキップします
-    usage: skip
+    usage: /skip
