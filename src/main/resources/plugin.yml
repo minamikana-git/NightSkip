@@ -1,7 +1,7 @@
 name: NightSkip
 version: '${project.version}'
-main: org.nandeyanenw.nightskip.NightSkip
-api-version: '1.20'
+main: net.hotamachisubaru.nightskip.NightSkip
+api-version: '1.21'
 commands:
   skip:
     description: 夜をスキップします
